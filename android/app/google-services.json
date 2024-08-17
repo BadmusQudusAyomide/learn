@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269531696762",
+    "project_id": "learnonthego-cc4f8",
+    "storage_bucket": "learnonthego-cc4f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269531696762:android:407e9cb9961e8b0ee235c3",
+        "android_client_info": {
+          "package_name": "com.learn.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnDVKcN5A4JfunSUfJj-aW1p5YTzlvD0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
